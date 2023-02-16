@@ -5,7 +5,25 @@ MATLAB实现的一些简单的照片艺术滤镜算法
 
 
 ## 基本介绍
-MATLAB实现的一些简单的照片艺术滤镜算法，包括
+MATLAB实现的一些简单的照片艺术滤镜算法，包括：
+函数  | 滤镜
+ ---- | ----
+cartoon | 卡通
+color_segmentation | 色彩分割
+ColorPencilSketch | 彩色铅笔
+comic | 漫画
+cubist | 立体派
+glass | 磨砂玻璃
+minmaxfilt | 最值
+npr | 非真实渲染
+oilpaint | 油画
+PencilSketch | 铅笔素描
+pointillism | 十字绣
+rastafarian | 
+superfilter | 超像素
+transfer | 
+vampirize | 吸血鬼
+Warhol | 
 
 
 ## 说明
@@ -18,9 +36,13 @@ MATLAB实现的一些简单的照片艺术滤镜算法，包括
 ## 视频地址
 
 [《MATLAB图像滤镜算法》（一）玻璃滤镜](https://www.bilibili.com/video/BV1ZM411C7AL/?share_source=copy_web)
+
 [《MATLAB图像滤镜算法》（二）最小值滤镜](https://www.bilibili.com/video/BV1cT411m72n/?share_source=copy_web)
+
 [《MATLAB图像滤镜算法》（二）最小值滤镜](https://www.bilibili.com/video/BV1cT411m72n/?share_source=copy_web)
+
 [《MATLAB图像滤镜算法》（四）超像素滤镜](https://www.bilibili.com/video/BV1n84y1j7SQ/?share_source=copy_web)
+
 [《MATLAB图像滤镜算法》（五）铅笔滤镜](https://www.bilibili.com/video/BV1zs4y1x7bu/?share_source=copy_web)
 [……)
 
