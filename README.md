@@ -35,6 +35,8 @@ Warhol |
 
 `ArtFilterDemo.m`：交互演示界面，方便大家了解每种滤镜不同参数下的效果。
 
+`优化实例`：Bilibili视频对应代码。
+
 更详细的信息可观看视频，仍有问题可留言。
 
 ## 视频地址
@@ -43,11 +45,12 @@ Warhol |
 
 [《MATLAB图像滤镜算法》（二）最小值滤镜](https://www.bilibili.com/video/BV1cT411m72n/?share_source=copy_web)
 
-[《MATLAB图像滤镜算法》（二）最小值滤镜](https://www.bilibili.com/video/BV1cT411m72n/?share_source=copy_web)
+[《MATLAB图像滤镜算法》（三）色彩分割滤镜](https://www.bilibili.com/video/BV1sG4y1w7Vh/?share_source=copy_web)
 
 [《MATLAB图像滤镜算法》（四）超像素滤镜](https://www.bilibili.com/video/BV1n84y1j7SQ/?share_source=copy_web)
 
 [《MATLAB图像滤镜算法》（五）铅笔滤镜](https://www.bilibili.com/video/BV1zs4y1x7bu/?share_source=copy_web)
+
 [……)
 
 
