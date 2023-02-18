@@ -2,7 +2,7 @@
 MATLAB实现的一些简单的照片艺术滤镜算法
 
 **Bilibili UP: [今天不飞了](https://space.bilibili.com/330337755)**
-
+**如果代码对你有帮助，可以帮我点亮右上角的五角星，感谢**
 
 ## 基本介绍
 MATLAB实现的一些简单的照片艺术滤镜算法，包括：
@@ -53,7 +53,7 @@ Warhol |
 
 [《MATLAB图像滤镜算法》（五）铅笔滤镜](https://www.bilibili.com/video/BV1zs4y1x7bu/?share_source=copy_web)
 
-[……)
+[《MATLAB图像滤镜算法》简易交互界面](https://www.bilibili.com/video/BV1v24y1p7vj/?share_source=copy_web&vd_source=caaf4922a2586fb68950a3155662b9c6)
 
 
 
